@@ -1,5 +1,5 @@
 <h1>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Vibhay Singh</h1>
-<h3>I'm a Web Developer (MERN) and Competitive Programmer</h3>
+<h3>I'm a Web Developer (MERN) and Mastering the art of Problem Solving 🐱‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="vibhaysingh" /> </p>
 
@@ -44,8 +44,6 @@
 
 <h3 align="left">My Coding Profiles</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/vibhaysingh" target="_blank"> <img alt="Codeforces" src ="https://cp-logo.vercel.app/codeforces/vibhaysingh?logo=true" height="28px"/> </a>
-<a href="https://www.codechef.com/users/vibhaysingh" target="_blank"> <img alt="Codechef" src ="https://cp-logo.vercel.app/codechef/vibhaysingh?logo=true" height="28px"/> </a>
 <a href="https://leetcode.com/vibhaysingh/" target="_blank"> <img alt="Leetcode" src ="https://cp-logo.vercel.app/leetcode/vibhaysingh?logo=true" height="28px"/> </a>
 </p>
 
