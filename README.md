@@ -44,6 +44,9 @@
 <p align="left">
 <a href="https://leetcode.com/vibhaysingh/" target="_blank"> <img alt="Leetcode" src ="https://cp-logo.vercel.app/leetcode/vibhaysingh?logo=true" height="28px"/> </a>
 </p>
+<p align="left">
+  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=vibhaysingh&theme=dark)
+  </p>
 
 <h3>Find Me On</h3>
 <a href="https://github.com/vibhaysingh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
