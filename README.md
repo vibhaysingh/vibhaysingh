@@ -1,4 +1,4 @@
-<h1>Hey! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Vibhay Singh</h1>
+<h1>Hey ! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Vibhay Singh</h1>
 <h3>I'm a Web Developer (MERN) and Mastering the art of Problem Solving 🐱‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="vibhaysingh" /> </p>
@@ -32,7 +32,7 @@
 <a href="https://www.firebase.com/" target="_blank"> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> </a>
 </p>
 
-<h3 align="left">Others</h3>
+<h3 align="left">Other Skills</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
@@ -40,13 +40,11 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 </p>
 
-<h3 align="left">My Coding Profiles</h3>
+<h3 align="left">My LeetCode Profile</h3>
 <p align="left">
-<a href="https://leetcode.com/vibhaysingh/" target="_blank"> <img alt="Leetcode" src ="https://cp-logo.vercel.app/leetcode/vibhaysingh?logo=true" height="28px"/> </a>
-</p>
-<p align="left">
-  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=vibhaysingh&theme=dark)
-  </p>
+<a href="https://leetcode.com/vibhaysingh/" target="_blank"> <img alt="Leetcode" src ="https://leetcode.card.workers.dev/?username=vibhaysingh&theme=dark"/> </a>
+</p> 
+
 
 <h3>Find Me On</h3>
 <a href="https://github.com/vibhaysingh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
