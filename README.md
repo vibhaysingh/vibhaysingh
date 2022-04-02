@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="vibhaysingh" /> </p>
 
 - 👀 Looking for SDE or related internships.
-- 🌱 I’m currently working on a Backend Project.
+- 🌱 I’m currently working on a Full Stack Project.
 - 💞️ I"m ready to collaborate on Web Development Projects.
 - 📫 Mail me here:  vibhaysinghjnv@gmail.com
 
