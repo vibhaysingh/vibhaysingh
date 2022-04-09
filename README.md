@@ -22,6 +22,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
+<a href="https://mui.com/" target="_blank"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MaterialUI" /> </a>
+
 </p>
 
 <h3 align="left">Backend Skills</h3>
@@ -40,15 +42,17 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 </p>
 
-<h3 align="left">My LeetCode Profile</h3>
+<!-- <h3 align="left">My LeetCode Profile</h3>
 <p align="left">
 <a href="https://leetcode.com/vibhaysingh/" target="_blank"> <img alt="Leetcode" src ="https://leetcode.card.workers.dev/?username=vibhaysingh&theme=dark"/> </a>
-</p> 
+</p>  -->
 
 
 <h3>Find Me On</h3>
 <a href="https://github.com/vibhaysingh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/vibhay-singh-56a9141a7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vibhaysinghjnv@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+
 
 
 <h3>My Projects:</h3>
