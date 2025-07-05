@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhaysingh&label=Profile%20views&color=0e75b6&style=flat" alt="vibhaysingh" /> </p>
 
-- 👀 SDE-1 @ Sumologic.
+- 👀 SDE-2 @ Sumologic.
 - 🌱 I’m currently working with Frontend Team.
 - 💞️ I"m ready to collaborate on Web Development Projects.
 - 📫 Mail me here:  vibhaysinghjnv@gmail.com
